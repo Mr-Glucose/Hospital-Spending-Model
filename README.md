@@ -19,7 +19,7 @@ Demonstrates professional **data integration and quality management** using actu
 
 ## 📊 Dashboard
 
-![Hospital Medicare Spending Dashboard](dashboard.jpg)
+![Hospital Medicare Spending Dashboard](./PowerBI/dashboard.jpg)
 
 **Analysis Results:**
 
